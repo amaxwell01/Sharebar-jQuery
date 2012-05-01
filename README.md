@@ -3,7 +3,8 @@ Sharebar-jQuery
 
 A simple website sharebar in under 100 lines of code for HTML, CSS and JavaScript (jQuery)
 
-
+DEMO:
+http://labs.andrewcmaxwell.com/sharebar-jquery/
 
 REQUIREMENTS:
 1. jQuery (Tested 1.7.1)
