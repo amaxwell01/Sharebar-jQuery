@@ -4,6 +4,7 @@ Sharebar-jQuery
 Author: Andrew Maxwell
 Created Date: 4/30/12
 Version: 1.0.0
+Line Count: 53
 
 A simple website sharebar in under 100 lines of code for HTML, CSS and JavaScript (jQuery)
 
