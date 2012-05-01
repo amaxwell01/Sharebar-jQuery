@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#sharebar {
+    background: #fff;
+    border: solid 1px #ccc;
+    overflow: hidden;
+    padding: 10px;
+    position: absolute;
+    top: 200px;
+    width: 80px;
+}
+#sharebar ul {
+    float: left;
+}
+#sharebar ul li {
+    float: left;
+    list-style: none;
+}
